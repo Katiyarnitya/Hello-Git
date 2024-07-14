@@ -1,4 +1,5 @@
 # Hello-Git
+
 This is my first Repository.
 <br>
-Author : Nitya Katiyar
+Author : Nitya Katiyar(B-tech)
